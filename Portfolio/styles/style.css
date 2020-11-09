@@ -19,3 +19,7 @@ a {
 .album_desc, .album_artist {
     cursor: default;
 }
+
+h2 {
+    cursor: default;
+}
