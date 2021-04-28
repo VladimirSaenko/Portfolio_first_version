@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif, 'Dela Gothic One', cursive, sans-serif;
+    color: white;
+    font-weight: normal;
+}
+
+body {
+    /* background: linear-gradient(110deg,#f93d66,); */
+    /* background: rgb(203,38,38); */
+    background: linear-gradient(80deg, rgb(33, 197, 0) 50%, rgba(33,0,255,1));
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.album_desc, .album_artist {
+    cursor: default;
+}
+
+h2 {
+    cursor: pointer;
+}
