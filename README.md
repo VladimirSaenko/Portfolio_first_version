@@ -1,10 +1,10 @@
 # Portfolio_first_version
 
-Первая версия портфолио с тремя сайтами
+### Первая версия портфолио с тремя сайтами
 
-Актуальные портфолио: {
+### Актуальные портфолио:
 
-Portfolio-2 {
+### Portfolio-2 {
 
 https://vladimirsaenko.github.io/Portfolio-2/
 
@@ -12,12 +12,10 @@ https://github.com/VladimirSaenko/Portfolio-2
 
 }
 
-Portfolio-3 {
+### Portfolio-3 {
 
 https://vladimirsaenko.github.io/Portfolio-3/
 
 https://github.com/VladimirSaenko/Portfolio-3
 
 }
-
-  }
