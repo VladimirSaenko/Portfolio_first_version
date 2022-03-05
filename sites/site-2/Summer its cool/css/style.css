@@ -2,7 +2,6 @@
 .slider {
     display: flex;
     justify-content: center;
-
 }
 
 .item {
@@ -28,10 +27,6 @@
     text-shadow: 0px 0px 20px black;
 }
 
-.item-1 {
-    background: url(../img/1.jpg) center;
-    background-size: cover;
-}
 .item-2 {
     background: url(../img/2.jpg) center;
     background-size: cover;
